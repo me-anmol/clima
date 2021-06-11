@@ -1,6 +1,6 @@
 # clima
 
-A new Flutter project.
+This is a flutter app that uses the Open Weather API to retrive weather condition of ones current location and allows the user to check the weather at a diffrent city.
 
 ## Getting Started
 
